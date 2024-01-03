@@ -1,0 +1,27 @@
+Libraries/ragelib
+	
+Add ragelib library files and link them
+	
+altClothTool.App
+	
+Ability to change postfix (_u / _r) in project window. (#16)
+	
+packages/Newtonsoft.Json.12.0.3
+	
+Update gitignore file
+	
+.gitignore
+	
+Cleanup project structure
+	
+README.md
+	
+Update README
+	
+altClothTool.sln
+	
+Cleanup project structure
+	
+altClothTool.sln.DotSettings.user
+	
+Cleanup project structure
